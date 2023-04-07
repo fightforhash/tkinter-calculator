@@ -4,10 +4,10 @@ Basic tkinter calculator using Python module
 
 **Fuctionalities**
 
-Add/Subtract/Divide/Multiply
+*Add/Subtract/Divide/Multiply*
 
-Decimal points 
+*Decimal points*
 
-Natural Logarithm
+*Natural Logarithm*
 
-Trignometry(including inverse trigonometric functions)
+*Trignometry(including inverse trigonometric functions)*
